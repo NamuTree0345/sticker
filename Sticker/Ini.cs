@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://github.com/Enichan/Ini/blob/master/Ini.cs
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
