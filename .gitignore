@@ -1,0 +1,6 @@
+.vs
+Sticker/bin
+Sticker/obj
+*.pdb
+*.exe
+*.config
